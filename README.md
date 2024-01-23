@@ -56,13 +56,13 @@ La sécurité du système repose sur OAuth2 et OpenID Connect, avec la mise en �
 ## Captures d'écran
 
 - **Clients:**
-  ![Clients](ScreenShots/clients.png)
+  ![Clients](ScreenShots/clients.jpeg)
 
 - **Produits:**
-  ![Produits](ScreenShots/products.png)
+  ![Produits](ScreenShots/products.jpeg)
 
 - **Rôles:**
-  ![Rôles](ScreenShots/Roles.png)
+  ![Rôles](ScreenShots/Roles.jpeg)
 
 ## Instructions d'Exécution
 
